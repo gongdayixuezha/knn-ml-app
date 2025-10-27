@@ -12,7 +12,6 @@ sys.path.append(
 
 from app import KNNModel, create_synthetic_data, load_sample_data  # noqa: E402
 
-
 class TestKNNModel:
     """KNN模型测试类"""
 
